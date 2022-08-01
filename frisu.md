@@ -6,13 +6,13 @@ Frísú, the language of the seafaring Clan Frísú, is a flowing, beautiful lan
 ## Phonology and Phonetics    
 Frísú lacks nasal consonants, instead opting for a beautiful variety of fricatives and laterals, producing a sound rich in long rising vowels and geminates. 
 The chart below shows the consonants and vowels of Frísú. However, some rules apply:
-Word-final ⟨a⟩ is pronounced [ə].
-Vowels are lengthened when followed by another vowel or a voiced consonant (this does not apply to the schwa as seen above, even in compound words).
-⟨l⟩ is pronounced [l̪] when followed by an dental sound, and [l] otherwise
-Syllable-initial plosives are aspirated.
-The acute accent (´) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
-Word-final fricatives (including the lateral fricative [ɬ]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  [ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː] ‘call (of a horn or siren)’), it is heavily geminated.
-Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
+ * Word-final ⟨a⟩ is pronounced [ə].
+ * Vowels are lengthened when followed by another vowel or a voiced consonant (this does not apply to the schwa as seen above, even in compound words).
+ * ⟨l⟩ is pronounced [l̪] when followed by an dental sound, and [l] otherwise
+ * Syllable-initial plosives are aspirated.
+ * The acute accent (´) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
+ * Word-final fricatives (including the lateral fricative [ɬ]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  [ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː] ‘call (of a horn or siren)’), it is heavily geminated.
+ * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], [ɻɭ̊˔] and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
 
 ## Stress patterns
 
@@ -28,27 +28,28 @@ Frísú uses the definite article fí (derivation unknown, possibly from the arc
 
 ## Noun Case
 As mentioned earlier, Frísú has a number of local and nonlocal cases, most as suffixes. The nominative and accusative cases, described in ‘Word Format’ are, for the most part, the only exception to this rule. The other cases are presented below:
-Genitive (marked on possessor) uses the suffix -ge
-Instrumental ( also applies to ‘guided by’ or prolative case) uses the suffix -(e)lh.
-Comitative uses the suffix -o
-Benefactive uses the suffix -(i)k. This is a modern shortening of ike ‘for’, and prevents the (incorrect) use of the comitative for this purpose.
-Vocative (not always used) sometimes uses a reduplicating last syllable, often with minor changes:
-Terivírú + Vocative = Terivírúru
-Lar + Vocative = Larer
-Dovú + Vocative = Dovúvú
+ * Genitive (marked on possessor) uses the suffix -ge
+ * Instrumental ( also applies to ‘guided by’ or prolative case) uses the suffix *-(e)lh*
+ * Comitative uses the suffix *-o*
+ * Benefactive uses the suffix *-(i)k*. This is a modern shortening of ike ‘for’, and prevents the (incorrect) use of the comitative for this purpose.
+ * Vocative (not always used) sometimes uses a reduplicating last syllable, often with minor changes:
+    * Terivírú + Vocative = Terivírúru
+    * Lar + Vocative = Larer
+    * Dovú + Vocative = Dovúvú
+
 Local cases:
-A basic locative case uses the suffix -g
-Adessive uses the suffix -(a)rl
-Ablative uses the suffix -ralh
-Lative uses the suffix -lalh
-Perlative uses the suffix -thík
+ * A basic locative case uses the suffix *-g*
+ * Adessive uses the suffix *-(a)rl*
+ * Ablative uses the suffix *-ralh*
+ * Lative uses the suffix *-lalh*
+ * Perlative uses the suffix *-thík*
 
 ## Verb Tense, Modality, Aspect, and Agreement
 Verbs in Frísú use three base tenses, all of which have fairly regular forms. The prefix r(o)- denotes past tense, g(o)- present tense, and z(o)- future tense. Another prefix, dzí- (a rare use of an affricate in Frísú) denotes an altered or exaggerated form of the tense marker it precedes. For example a prefix of dzír(o)- would mean ‘far past’ and dzíz(o)- ‘far future’. Dzíg(o)-, up until middle Frísú, was used as a narrative or imaginary tense, but is now usually replaced by the simpler past tense.
 Sometimes used to indicate causation, a set of relative tense prefixes, e- and a-, precede the other tense prefix(es), and indicate, for e-, an event that takes place after or caused by the previous, and, for a-, an event that takes place before or causes an event. These are similar in use to English auxiliaries such as because, then, and before. Because of this ability, relative tense (where both actions are in the past tense but one comes after the other) is not always encoded with first-things-first syntax in Frísú. Their use is demonstrated below, with the prefixes and their meanings in bold.
 
-Rotsíelkú relú. Aroígelar delarú. ‘I cried. Because they (singular) failed earlier.’
-Zoevtelí fí therúlírú relú. Ezofalhe delarú. ‘I will enter the cave. Then they (singular) will follow.’
+*Rotsíelkú relú. Aroígelar delarú.* ‘I cried. Because they (singular) failed earlier.’
+*Zoevtelí fí therúlírú relú. Ezofalhe delarú.* ‘I will enter the cave. Then they (singular) will follow.’
 
 Verbs also agree in definiteness (of both the subject and any object present, similar to a polypersonal language) using a prefix that comes after the tense prefix(es). They are as follows:
     
