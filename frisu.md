@@ -10,7 +10,7 @@ The chart below shows the consonants and vowels of Frísú. However, some rules 
  * Vowels are lengthened when followed by another vowel or a voiced consonant (this does not apply to the schwa as seen above, even in compound words).
  * ⟨l⟩ is pronounced [l̪] when followed by an dental sound, and [l] otherwise
  * Syllable-initial plosives are aspirated.
- * The acute accent (´) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
+ * The acute accent ( ´ ) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
  * Word-final fricatives (including the lateral fricative [ɬ]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  [ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː] ‘call (of a horn or siren)’), it is heavily geminated.
  * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], [ɻꞎ] and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
 
@@ -69,7 +69,7 @@ Compound words are formed by changing the voicedness of the last letter of the f
 ## Evolution
 
 The evolution of the Frísú language can be classified into five main stages (with their names at the time in quotes), and three dialects:
-Uğhandü (the mother of a family (the Uğh family) with many languages, including Dwańni (also spelled Duańi), Maërnu, Dhyrümn, and Frísú. Khōlyvh Ɯr is sometimes considered a member of this family, though it does not directly descend from Uğhandü)
+Uğhandü (the mother of a family (the Uğh family) with many languages, including Dwańni (also spelled Duańi), Maërnu, Dhyrümn, and Frísú. Khơlīvh Ɯr is sometimes considered a member of this family, though it does not directly descend from Uğhandü (It is closer to a ʔlit'ûl language))
 * Proto Frísú ‘Vìʒuún’
 * Old Frísú ‘Vrìzü Laà’
 * Middle Frísú ‘Frīsúlā’
