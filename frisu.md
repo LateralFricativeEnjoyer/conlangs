@@ -12,7 +12,7 @@ The chart below shows the consonants and vowels of Frísú. However, some rules 
  * Syllable-initial plosives are aspirated.
  * The acute accent (´) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
  * Word-final fricatives (including the lateral fricative [ɬ]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  [ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː] ‘call (of a horn or siren)’), it is heavily geminated.
- * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], [ɻɭ̊˔] and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
+ * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], [ɻꞎ] and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
 
 ## Stress patterns
 
@@ -48,8 +48,8 @@ Local cases:
 Verbs in Frísú use three base tenses, all of which have fairly regular forms. The prefix r(o)- denotes past tense, g(o)- present tense, and z(o)- future tense. Another prefix, dzí- (a rare use of an affricate in Frísú) denotes an altered or exaggerated form of the tense marker it precedes. For example a prefix of dzír(o)- would mean ‘far past’ and dzíz(o)- ‘far future’. Dzíg(o)-, up until middle Frísú, was used as a narrative or imaginary tense, but is now usually replaced by the simpler past tense.
 Sometimes used to indicate causation, a set of relative tense prefixes, e- and a-, precede the other tense prefix(es), and indicate, for e-, an event that takes place after or caused by the previous, and, for a-, an event that takes place before or causes an event. These are similar in use to English auxiliaries such as because, then, and before. Because of this ability, relative tense (where both actions are in the past tense but one comes after the other) is not always encoded with first-things-first syntax in Frísú. Their use is demonstrated below, with the prefixes and their meanings in bold.
 
-*Rotsíelkú relú. Aroígelar delarú.* ‘I cried. Because they (singular) failed earlier.’
-*Zoevtelí fí therúlírú relú. Ezofalhe delarú.* ‘I will enter the cave. Then they (singular) will follow.’
+* *Rotsíelkú relú. Aroígelar delarú.* ‘I cried. Because they (singular) failed earlier.’
+* *Zoevtelí fí therúlírú relú. Ezofalhe delarú.* ‘I will enter the cave. Then they (singular) will follow.’
 
 Verbs also agree in definiteness (of both the subject and any object present, similar to a polypersonal language) using a prefix that comes after the tense prefix(es). They are as follows:
     
@@ -60,8 +60,9 @@ Modality is indicated by a set of postverbal modal auxiliaries, with fairly stan
 
 ## Compound words
 Compound words are formed by changing the voicedness of the last letter of the first word or the first letter of the second word to have opposite voicedness from each other. The word with more back vowels is prioritized for the change:
-Elík [ɛː.ˈli15k] ‘cold’ + salhú [ˈseɬ.u15] ‘glass’ = elíkzalhú [ɛː.ˌli15k.zeɬ.ˈu15] ‘ice’
-Úrolít [u15rɔː.ˈli15t̪] ‘quiet’ + ferú [ˈfɛː.ru] ‘disgust’ = úrolídferú [u15rɔː.ˈli15d̪.ˌfɛː.ru] ‘contempt’
+
+ * *Elík* [ɛː.ˈli15k] ‘cold’ + *salhú* [ˈseɬ.u15] ‘glass’ = *elíkzalhú* [ɛː.ˌli15k.zeɬ.ˈu15] ‘ice’
+ * *Úrolít* [u15rɔː.ˈli15t̪] ‘quiet’ + *ferú* [ˈfɛː.ru] ‘disgust’ = *úrolídferú* [u15rɔː.ˈli15d̪.ˌfɛː.ru] ‘contempt’
 
 ## Writing
 
@@ -69,11 +70,11 @@ Elík [ɛː.ˈli15k] ‘cold’ + salhú [ˈseɬ.u15] ‘glass’ = elíkzalhú 
 
 The evolution of the Frísú language can be classified into five main stages (with their names at the time in quotes), and three dialects:
 Uğhandü (the mother of a family (the Uğh family) with many languages, including Dwańni (also spelled Duańi), Maërnu, Dhyrümn, and Frísú. Khōlyvh Ɯr is sometimes considered a member of this family, though it does not directly descend from Uğhandü)
-Proto Frísú ‘Vìʒuún’
-Old Frísú ‘Vrìzü Laà’
-Middle Frísú ‘Frīsúlā’
-Modern Frísú ‘Frísú’
-Oúnaiilú, a form of Frísú used in naval communication (which notably has 29 separate words describing the state of water, from stormy seas to a foggy calm)
-Ténovú, a version of Frísú spoken by various other Clans (commonly studied by Frísú scholars as an example of language evolution) 
-Ğhem, a now-extinct ritual language descendent of Frísú, which incorporated elements of Dwańni, as well as including the phonemes [h], [n], [m], [x], [b], and [ɣ].
+* Proto Frísú ‘Vìʒuún’
+* Old Frísú ‘Vrìzü Laà’
+* Middle Frísú ‘Frīsúlā’
+* Modern Frísú ‘Frísú’
+* Oúnaiilú, a form of Frísú used in naval communication (which notably has 29 separate words describing the state of water, from stormy seas to a foggy calm)
+* Ténovú, a version of Frísú spoken by various other Clans (commonly studied by Frísú scholars as an example of language evolution) 
+* Ğhem, a now-extinct ritual language descendent of Frísú, which incorporated elements of Dwańni, as well as including the phonemes \[h\], \[n\], \[m\], \[x\], \[b\], and \[ɣ\].
 
