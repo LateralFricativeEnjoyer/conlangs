@@ -6,13 +6,13 @@ Frísú, the language of the seafaring Clan Frísú, is a flowing, beautiful lan
 ## Phonology and Phonetics    
 Frísú lacks nasal consonants, instead opting for a beautiful variety of fricatives and laterals, producing a sound rich in long rising vowels and geminates. 
 The chart below shows the consonants and vowels of Frísú. However, some rules apply:
- * Word-final ⟨a⟩ is pronounced [ə].
+ * Word-final ⟨a⟩ is pronounced \[ə\].
  * Vowels are lengthened when followed by another vowel or a voiced consonant (this does not apply to the schwa as seen above, even in compound words).
- * ⟨l⟩ is pronounced [l̪] when followed by an dental sound, and [l] otherwise
+ * ⟨l⟩ is pronounced \[l̪\] when followed by an dental sound, and \[l\] otherwise
  * Syllable-initial plosives are aspirated.
  * The acute accent ( ´ ) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
- * Word-final fricatives (including the lateral fricative [ɬ]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  [ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː] ‘call (of a horn or siren)’), it is heavily geminated.
- * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar [ɹ̈] or a retroflex [ɻ]. Old Frísú (which had the alveolar nasal [n]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as [ɻʈ], [ɻɖ], [ɻɳ], [ɻꞎ] and [ɻɭ] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
+ * Word-final fricatives (including the lateral fricative \[ɬ\]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  \[ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː\] ‘call (of a horn or siren)’), it is heavily geminated.
+ * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar \[ɹ̈\] or a retroflex \[ɻ\]. Old Frísú (which had the alveolar nasal \[n\]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as \[ɻʈ\], \[ɻɖ\], \[ɻɳ\], \[ɻꞎ\] and \[ɻɭ\] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
 
 ## Stress patterns
 
@@ -61,8 +61,8 @@ Modality is indicated by a set of postverbal modal auxiliaries, with fairly stan
 ## Compound words
 Compound words are formed by changing the voicedness of the last letter of the first word or the first letter of the second word to have opposite voicedness from each other. The word with more back vowels is prioritized for the change:
 
- * *Elík* [ɛː.ˈli15k] ‘cold’ + *salhú* [ˈseɬ.u15] ‘glass’ = *elíkzalhú* [ɛː.ˌli15k.zeɬ.ˈu15] ‘ice’
- * *Úrolít* [u15rɔː.ˈli15t̪] ‘quiet’ + *ferú* [ˈfɛː.ru] ‘disgust’ = *úrolídferú* [u15rɔː.ˈli15d̪.ˌfɛː.ru] ‘contempt’
+ * *Elík* \[ɛː.ˈli15k\] ‘cold’ + *salhú* \[ˈseɬ.u15\] ‘glass’ = *elíkzalhú* \[ɛː.ˌli15k.zeɬ.ˈu15\] ‘ice’
+ * *Úrolít* \[u15rɔː.ˈli15t̪\] ‘quiet’ + *ferú* \[ˈfɛː.ru\] ‘disgust’ = *úrolídferú* \[u15rɔː.ˈli15d̪.ˌfɛː.ru\] ‘contempt’
 
 ## Writing
 
