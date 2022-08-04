@@ -1,4 +1,3 @@
-# Frísú [ˈfri15.su15]
 
 ## Description
 Frísú, the language of the seafaring Clan Frísú, is a flowing, beautiful language. It is a tonal, mostly head-final language with a number of local and nonlocal case suffixes. Sharing many features with J'ẹr, Djei, and Îär-Tôr, it is written in the Roívikú syllabary, left to right.
