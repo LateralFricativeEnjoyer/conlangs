@@ -1,6 +1,12 @@
 ---
 layout: page
-title: frísú \[fri15.su15\]
+title: Frísú [fri15.su15]
+tags:
+ - uğhandü
+ - uğh
+ - frísú
+ - gor-itil
+ - tonal
 ---
 
 ## Description
