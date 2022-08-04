@@ -11,7 +11,7 @@ The chart below shows the consonants and vowels of Frísú. However, some rules 
  * ⟨l⟩ is pronounced \[l̪\] when followed by an dental sound, and \[l\] otherwise
  * Syllable-initial plosives are aspirated.
  * The acute accent ( ´ ) marks a rising (15 or ˩ ˥) tone. The falling tone was used in old Frísú, but was replaced with irregularly placed long vowels in middle Frísú, which were themselves removed by modern Frísú.
- * Word-final fricatives (including the lateral fricative \[ɬ\]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word roítalasf  \[ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː\] ‘call (of a horn or siren)’), it is heavily geminated.
+ * Word-final fricatives (including the lateral fricative \[ɬ\]) are slightly geminated. When a sequence of two fricatives ends a word (rarely seen, but present in the word *roítalasf*  \[ˌɹ̈ɔːi15.ˈt̪ʰeː.lesfːː\] ‘like a call (of a horn or siren)’), it is heavily geminated.
  * Word-initial ⟨r⟩ is usually pronounced as a bunched or molar \[ɹ̈\] or a retroflex \[ɻ\]. Old Frísú (which had the alveolar nasal \[n\]) realized the clusters ⟨rt⟩, ⟨rd⟩, ⟨rn⟩, ⟨rlh⟩, and ⟨rl⟩ as \[ɻʈ\], \[ɻɖ\], \[ɻɳ\], \[ɻꞎ\] and \[ɻɭ\] respectively in a word-initial position, but considering that these clusters are mostly not present in the modern language, they are no considered correct. Correct pronunciation of rlesídú ‘design etched or embedded in the ground’ is still disputed (if the ⟨l⟩ is retroflexed or not).
 
 ## Stress patterns
@@ -33,9 +33,9 @@ As mentioned earlier, Frísú has a number of local and nonlocal cases, most as 
  * Comitative uses the suffix *-o*
  * Benefactive uses the suffix *-(i)k*. This is a modern shortening of ike ‘for’, and prevents the (incorrect) use of the comitative for this purpose.
  * Vocative (not always used) sometimes uses a reduplicating last syllable, often with minor changes:
-    * Terivírú + Vocative = Terivírúru
-    * Lar + Vocative = Larer
-    * Dovú + Vocative = Dovúvú
+    * *Terivírú* + Vocative = *Terivírúru*
+    * *Lar* + Vocative = *Larer*
+    * *Dovú* + Vocative = *Dovúvú*
 
 Local cases:
  * A basic locative case uses the suffix *-g*
