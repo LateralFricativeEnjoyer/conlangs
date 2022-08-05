@@ -3,7 +3,7 @@
 ## Welcome!
 
 ![*fulhíthosa*](glyphs.svg)
-![*nofuřylh*](gylhev_glyphs.svg)
+<center> ![*nofuřylh*](gylhev_glyphs.svg) </center>
 
 ## Languages
 
