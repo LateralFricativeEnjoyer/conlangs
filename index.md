@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-![*fulhíthosa*](/images/fulhiithosa.svg)
+![*fulhíthosa*](glyphs.svg)
 
 ## Languages
 
