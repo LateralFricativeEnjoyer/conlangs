@@ -1,7 +1,8 @@
 # Sid's Conlangs
 
 ## Welcome!
-![*fulhíthosa*](/images/fulhiithosa.png)
+
+![*fulhíthosa*](/images/fulhiithosa.svg)
 
 ## Languages
 
