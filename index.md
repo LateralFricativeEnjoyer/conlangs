@@ -1,6 +1,7 @@
 # Sid's Conlangs
 
-Welcome to the amogus motherland yadda yadda
+## Welcome!
+![*fulhíthosa*](/images/fulhiithosa.png)
 
 ## Languages
 
