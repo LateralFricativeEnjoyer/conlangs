@@ -28,6 +28,16 @@ The chart below shows the consonants and vowels of Frísú. However, some rules 
 ## Word format
 Frísú uses the VOS word order for statements and normally intoned sentences. Commands and questions are written in the VSO word order. A distinguishing word, which also serves as a marker for the subject and object, is inserted. In VOS order, the word is o (from ao ‘on’), and is placed between the object and subject. In VSO order, the word is tí (from tio ‘there’), and is placed in the same location. In modern formal Frísú, the suffix -íth is used on the verb in VOS order (with the rising tone removed from the previous vowel). Also in the modern formal language, with VSO order, the nominative and accusative forms are used for nouns (this used to apply to all word orders, but was eliminated for simplicity.) To transform nouns, change the second vowel in the word (first in a one-vowel word) according to the chart below.
 
+| Default     | Nominative  | Accusative |
+| ----------- | ----------- | ---------- |
+| o           | u           | í          |
+| a           | e           | u          |
+| e           | a           | e          |
+| ú           | i           | a          |
+| i           | o           | i          |
+| í           | ú           | o          |
+| u           | í           | ú          |
+
 ## Articles
 Frísú uses the definite article fí (derivation unknown, possibly from the archaic verb prefix ví-, meaning ‘more is known about this action’) and the indefinite article eú (derived from old Frísú reú ‘one’). Frísú also has the negative article (as a prefix) ak- (from ak kú, meaning ‘(this is) without’) and, used in technical or intentionally specific language, the semidefinite article feú, a combination of fí and eú, used to represent a case that is possibly (but not certainly) co-occurrence. For example, if (some) raindrop(s) complete the actions ‘fly through the air’ and ‘land on their head’ they could (but are not necessarily) be the same, so the semidefinite feú is used on the second occurrence of telkú ‘raindrop’. If they are known to be the same, the definite would be used, and if they were known to be different raindrops (as in (some) raindrop(s) that ‘land on my head’ and also ‘land on their head’), the indefinite would be used. A translation to demonstrate this would be as follows (with the articles and article prefixes (described below) in bold):
 
