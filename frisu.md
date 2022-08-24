@@ -5,7 +5,7 @@ tags:
  - uğhandü
  - uğh
  - frísú
- - gor-itil
+ - gor-itilu
  - tonal
 ---
 
@@ -88,7 +88,7 @@ Compound words are formed by changing the voicedness of the last letter of the f
 ## Evolution
 
 The evolution of the Frísú language can be classified into five main stages (with their names at the time in quotes), and three dialects:
-Uğhandü (the mother of a family (the Uğh family) with many languages, including Dwańni (also spelled Duańi), Maërnu, Dhyrümn, and Frísú. Khơlīvh Ɯr is sometimes considered a member of this family, though it does not directly descend from Uğhandü (It is closer to a ʔlit'ûl language))
+Uğhandü (the mother of a family (the [Uğh](ugh) family)
 * Proto Frísú ‘Vìʒuún’
 * Old Frísú ‘Vrìzü Laà’
 * Middle Frísú ‘Frīsúlā’
