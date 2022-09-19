@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-![*fulhíthosa*](glyphs.svg)
+![*fulhíthosa*](glyphs.png)
 ![*ngela te*](ngelate.png)
 ![*nofuřylh*](gylhev_glyphs.svg)
 
