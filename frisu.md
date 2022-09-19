@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frísú [fri15.su15]
+title: Frísú [frí.sú]
 tags:
  - uğhandü
  - uğh
