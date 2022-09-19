@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Sid's Conlangs
+---
 
 ## Welcome!
 
