@@ -14,5 +14,6 @@ title: Sid's Conlangs
 
  * [Frísú](frisu)
  * [Khơlīvh \(Khơlīvh Ɯr\)](kholivh)
+ * [Gylhevř](gylhevr)
 
 
