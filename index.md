@@ -7,7 +7,7 @@ title: Sid's Conlangs
 
 <img src="glyphs.png" height="150px">
 <img src="ngelate.png" height="150px">
-<img src="gylhev_glyphs.png" height="150px">
+<img src="gylhev_glyphs.svg" height="150px">
 
 
 
