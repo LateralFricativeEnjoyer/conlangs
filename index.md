@@ -10,11 +10,5 @@ title: Sid's Conlangs
 ![*nofuřylh*](gylhev_glyphs.svg)
 
 
-## Languages
-
- * [Frísú](frisu)
- * [Khơlīvh \(Khơlīvh Ɯr\)](kholivh)
- * [Gylhevř](gylhevr)
- * [Îär Tôr](iartor)
 
 
