@@ -5,9 +5,9 @@ title: Sid's Conlangs
 
 ## Welcome!
 
-![*fulhíthosa*](glyphs.png | height=150)
-![*ngela te*](ngelate.png | height=150)
-![*nofuřylh*](gylhev_glyphs.svg | height=150)
+<img src="glyphs.png" height="150px">
+<img src="ngelate.png" height="150px">
+<img src="gylhev_glyphs.png" height="150px">
 
 
 
