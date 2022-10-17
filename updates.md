@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 sidebar_link: true
 title: Updates
 ---
