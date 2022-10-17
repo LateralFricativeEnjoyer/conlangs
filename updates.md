@@ -12,9 +12,11 @@ I've been working a little on the writing system for the language U̇vįolıhu! 
  * Added boundary-sensitive s
  
  The lang isn't done yet, but it can only have CV and VC syllables, with a max C cluster length of 2 (CCV is also allowed)
- It's aspiration sensitive now on all plosives! Suffixed -h
+ It's aspiration sensitive now on all plosives! Suffixed -h indicates it.
  
- It's going to have a cool aesthic: like turkish, or romanian, with a blunt and cold feel. The kind of lang that would never use apostrophe.
+ It's going to have a cool aesthic: like Turkish or Romanian or Polish or... 
+ [many hours later]
+ , with a blunt and cold feel. The kind of lang that would never use apostrophe.
  
  <img src="POSTIMAGE1.png" height="150px">
 
