@@ -12,4 +12,4 @@ I've been working a little on the writing system for the language U̇vįolıhu! 
  * Added boundary-sensitive s
  
  The lang isn't done yet, but it can only have CV and VC syllables, with a max C cluster length of 2 (CCV is also allowed)
- It's aspiration sensitive now! Suffixed -h
+ It's aspiration sensitive now on all plosives! Suffixed -h
