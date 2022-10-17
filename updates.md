@@ -15,7 +15,9 @@ I've been working a little on the writing system for the language U̇vįolıhu! 
  It's aspiration sensitive now on all plosives! Suffixed -h indicates it.
  
  It's going to have a cool aesthic: like Turkish or Romanian or Polish or... 
+ <br>
  [many hours later]
+ <br>
  , with a blunt and cold feel. The kind of lang that would never use apostrophe.
  
  <img src="POSTIMAGE1.png" height="150px">
