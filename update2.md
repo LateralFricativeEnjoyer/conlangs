@@ -19,6 +19,6 @@ It's got:
  * Original Djei language names
  * A disclaimer at the bottom (a pun on those "Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness." ones)
 
- <img src="MENU.png" height="150px">
+ <img src="MENU.png">
 
 -Little Bobby Tables
