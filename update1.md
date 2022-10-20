@@ -1,6 +1,6 @@
 ---
 layout: post
-sidebar_link: true
+sidebar_link: false
 title: U̇vįolıhu Writing System Progress!
 ---
 
