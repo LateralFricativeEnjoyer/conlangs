@@ -4,8 +4,9 @@ sidebar_link: true
 title: My Langs
 ---
 
-<img src="FRISU_PREVIEW.jpg" height="10">
- * [Frísú](frisu)
+[frisu]: FRISU_PREVIEW.jpg
+{: height="36px" width="36px"}
+* [Frísú](frisu)
 A beautiful, sharp Uğh language of the sea.
 
  * [Khơlīvh \(Khơlīvh Ɯr\)](kholivh)
