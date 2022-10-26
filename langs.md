@@ -4,7 +4,7 @@ sidebar_link: true
 title: My Langs
 ---
 
-![frisu](FRISU_PREVIEW.jpg){:height="36px" width="36px"}.
+![frisu](FRISU_PREVIEW.jpg){:height="33%" width="33%"}.
 * [Frísú](frisu)
 A beautiful, sharp Uğh language of the sea.
 
