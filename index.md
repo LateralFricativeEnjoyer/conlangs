@@ -5,9 +5,8 @@ title: Sid's Conlangs
 
 ## Welcome!
 
-<img src="glyphs.png" height="150px">
-<img src="ngelate.png" height="150px">
-<img src="gylhev_glyphs.svg" height="150px">
+I'm Sid, an amateur conlanger and worldbuilder from Seattle. This is my personal page for organizing all of that, but it's still under development.
+In the meantime, check out the [Wiki](./wiki.md), or read about my [Languages](./langs.md)
 
 
 
