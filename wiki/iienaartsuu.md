@@ -3,4 +3,4 @@ layout: page
 title: Iienaartsuu
 ---
 
-Amogus
+Mogus
