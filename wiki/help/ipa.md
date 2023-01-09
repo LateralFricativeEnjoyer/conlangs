@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help: IPA
+title: Help&#58; IPA
 ---
 
 The IPA ([International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)) is the system of phonetic and phonemic representation used throughout this website. The IPA is fairly standardized, however, a chart is provided below to clear up confusion and easily reference how I write IPA. 
