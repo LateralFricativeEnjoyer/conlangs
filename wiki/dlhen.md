@@ -4,7 +4,7 @@ title: Dlhen
 ---
 
 
-| Statblock                                                 |
+| Statblock                  |                               |
 | :------------------------: | :---------------------------: |
 | Image                      |                               |
 | Culture                    | Gylhev                        |
