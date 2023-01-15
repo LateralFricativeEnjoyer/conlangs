@@ -7,6 +7,8 @@ title: Wiki
 
 ### Content pages
 
+#### Misc.
+
 #### A
 
 #### B
@@ -59,8 +61,6 @@ title: Wiki
 
 #### Z
 
-#### Other
+### Help pages
 
-### Help
-
-### Special
+### Special pages
