@@ -12,21 +12,23 @@ title: Wiki
 #### Non-Alphabetic
 
 #### A
-[Aarnor](/aarnor)
+[Aarnor](wiki/aarnor)
 
 #### B
 
 #### C
 
 #### D
-[Dlhen](/dlhen)
-[Dhyczûl](/dhyczul)
+[Dlhen](wiki/dlhen)
+[Dhyczûl](wiki/dhyczul)
 
 #### E
 
 #### F
 
 #### G
+[Gylhev](wiki/gylhev)
+[Gylhev Calendar](wiki/gylhev_calendar)
 
 #### H
 
@@ -38,6 +40,7 @@ title: Wiki
 #### K
 [Khơlīvh](/kholivh)
 [Khơlīvh Calendar](/kholivh_calendar)
+Khơnd Šaramil: *see [Khơlīvh Calendar](/kholivh_calendar)*
 
 #### L
 
@@ -59,6 +62,7 @@ title: Wiki
 #### T
 [Tã](/tã)
 [Ta](/ta)
+Tanourog: *see [Gylhev Calendar](/gylhev_calendar)*
 
 #### U
 
