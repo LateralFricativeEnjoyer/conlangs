@@ -17,5 +17,5 @@ title: Dlhen
 | Use                   | Peircing / Bludgeoning Weapon.                                      |
 | Size                  | About 6S̄ Tall (1.5 m, 5.1 ft)                                       |
 | Materials             | Wood (shaft), Iron/Steel (blade)                                    |
-| Manufacturing         | Shaft made of a branch, adzed, sanded and finished with lacquer. Blade cut from thick sheet, folded and forge-welded, and then sharpened and friction fitted into the shaft. |
+| Manufacturing         | Shaft adzed and sanded, blade hammered and sharpened.                   |
 | Rarity                | A simple yet complicated weapon, well-made and cherished. Uncommon. |
