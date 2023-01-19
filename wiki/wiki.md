@@ -14,6 +14,8 @@ title: Wiki
 #### A
 [Aarnor](/wiki/aarnor)\
 
+Astral Measure: *see [Khādmot](/wiki/khadmot)*\
+
 #### B
 [Banēikh Archive Supply](/wiki/baneikh)\
 
@@ -26,13 +28,17 @@ title: Wiki
 
 [Dhyczûl](/wiki/dhyczul)\
 
+[Dɯas Žadɯfhe](/wiki/duas_zadufhe)\
+
 #### E
 
 #### F
 [Frísú](/wiki/frisu)\
 
 #### G
-[Galāt](/wiki/galat)
+[Galāt](/wiki/galat)\
+
+[Gitiidhnâe](/wiki/gitiidhnae)\
 
 [Gylhev](/wiki/gylhev)\
 
@@ -49,7 +55,11 @@ title: Wiki
 #### J
 
 #### K
+[Khādmot](/wiki/khadmot)\
+
 [Khaenu Range](/wiki/khaenu)\
+
+[Khe Į̇onalu](/wiki/khe_ionalu)\
 
 [Khinıxa Aħu̇įre Outpost](/wiki/khinixa_ahuire_outpost)\
 
@@ -62,11 +72,19 @@ Khinıxa Aħu̇įre Dialect: *see [Dialects of U̇vįolıhu](/wiki/dialects_uvio
 Khơnd Šaramil: *see [Khơlīvh Calendar](/wiki/kholivh_calendar)*\
 
 #### L
+[Lıbhemora](/wiki/libhemora)\
+
+[Lḥär Nuc̨uȫmk](/wiki/lhar_nucuomk)\
 
 #### M
+[Mı](/wiki/mi)\
 
 #### N
 [Nàrive Cxǫłnÿr](/wiki/narive_cxolnyr)\
+
+[Netilıbharôlu̇ӿâɸoigh](/wiki/netilibharoluxafoigh)\
+
+[Niizkhâ](/wiki/niizkha)\
 
 [Niizukôl](/wiki/niizukol)\
 
