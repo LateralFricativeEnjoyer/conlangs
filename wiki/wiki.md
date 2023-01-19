@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wiki
+published: true
 ---
 
 ## Page Index
