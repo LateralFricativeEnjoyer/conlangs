@@ -13,11 +13,14 @@ title: Wiki
 [Aarnor](wiki/aarnor)\
 
 #### B
+[Banēikh Archive Supply](/wiki/baneikh)\
 
 #### C
 
 #### D
 [Dlhen](wiki/dlhen)\
+
+[Dhehenevârı](wiki/dhehenevari)\
 
 [Dhyczûl](wiki/dhyczul)\
 
@@ -82,7 +85,11 @@ Niiįiźukôl: *see [Niizukôl](/wiki/niizukol)*\
 
 Tanourog: *see [Gylhev Calendar](/wiki/gylhev_calendar)*\
 
+[Thınâlu̇ik](/wiki/thinaluik)\
+
 #### U
+[Uargu](/wiki/uargu)\
+
 [Ų̇ôgiat](/wiki/uogiat)\
 
 #### V
