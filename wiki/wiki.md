@@ -6,11 +6,13 @@ title: Wiki
 ## Page Index
 
 #### Numeric & Symbols
+1(4(ṇ2ṇ1ṇ12en1n2)5(9(11(ṃ12ṃ2m2sfm1i)))ghz(uṃ12ëksim1f): *see [uṃ12ëksim1f](/wiki/um12eksim1f)*\
 
 #### Other Letters
+[!ƛ’ŋẍáḍ](/wiki/tlnxad)\
 
 #### A
-[Aarnor](wiki/aarnor)\
+[Aarnor](/wiki/aarnor)\
 
 #### B
 [Banēikh Archive Supply](/wiki/baneikh)\
@@ -18,28 +20,31 @@ title: Wiki
 #### C
 
 #### D
-[Dlhen](wiki/dlhen)\
+[Dlhen](/wiki/dlhen)\
 
-[Dhehenevârı](wiki/dhehenevari)\
+[Dhehenevârı](/wiki/dhehenevari)\
 
-[Dhyczûl](wiki/dhyczul)\
+[Dhyczûl](/wiki/dhyczul)\
 
 #### E
 
 #### F
+[Frísú](/wiki/frisu)\
 
 #### G
 [Galāt](/wiki/galat)
 
-[Gylhev](wiki/gylhev)\
+[Gylhev](/wiki/gylhev)\
 
-[Gylhev Calendar](wiki/gylhev_calendar)\
+[Gylhev Calendar](/wiki/gylhev_calendar)\
+
+[Gzokangbyř](/wiki/gzokangbyr)\
 
 #### H
-[Ħaliįu̇tha Phenomenon](wiki/haliiutha)\
+[Ħaliįu̇tha Phenomenon](/wiki/haliiutha)\
 
 #### I
-[Iienaartsuu](wiki/iienaartsuu)\
+[Iienaartsuu](/wiki/iienaartsuu)\
 
 #### J
 
@@ -69,6 +74,8 @@ Niiįiźukôl: *see [Niizukôl](/wiki/niizukol)*\
 
 #### O
 [Ogwaž](/wiki/ogwaz)\
+
+Orñg̈ʡhyrl’hyl’hyw: *see [Ȣ̈rlibb’gẉ](/wiki/urlibbgw)*\
 
 #### P
 
