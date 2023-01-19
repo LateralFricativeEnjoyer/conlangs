@@ -26,32 +26,46 @@ title: Wiki
 #### F
 
 #### G
+[Galāt](/wiki/galat)
+
 [Gylhev](wiki/gylhev)\
 
 [Gylhev Calendar](wiki/gylhev_calendar)\
 
 #### H
+[Ħaliįu̇tha Phenomenon](wiki/haliiutha)\
 
 #### I
-[Iienaartsuu](/iienaartsuu)\
+[Iienaartsuu](wiki/iienaartsuu)\
 
 #### J
 
 #### K
-[Khơlīvh](/kholivh)\
+[Khaenu Range](/wiki/khaenu)\
 
-[Khơlīvh Calendar](/kholivh_calendar)\
+[Khinıxa Aħu̇įre Outpost](/wiki/khinixa_ahuire_outpost)\
 
-Khơnd Šaramil: *see [Khơlīvh Calendar](/kholivh_calendar)*\
+Khinıxa Aħu̇įre Dialect: *see [Dialects of U̇vįolıhu](/wiki/dialects_uviolihu)*\
+
+[Khơlīvh](/wiki/kholivh)\
+
+[Khơlīvh Calendar](/wiki/kholivh_calendar)\
+
+Khơnd Šaramil: *see [Khơlīvh Calendar](/wiki/kholivh_calendar)*\
 
 #### L
 
 #### M
 
 #### N
-[Nàrive Cxǫłnÿr](/narive_cxolnyr)\
+[Nàrive Cxǫłnÿr](/wiki/narive_cxolnyr)\
+
+[Niizukôl](/wiki/niizukol)\
+
+Niiįiźukôl: *see [Niizukôl](/wiki/niizukol)*\
 
 #### O
+[Ogwaž](/wiki/ogwaz)\
 
 #### P
 
@@ -62,16 +76,17 @@ Khơnd Šaramil: *see [Khơlīvh Calendar](/kholivh_calendar)*\
 #### S
 
 #### T
-[Tã](/tã)\
+[Tã](/wiki/tã)\
 
-[Ta](/ta)\
+[Ta](/wiki/ta)\
 
-Tanourog: *see [Gylhev Calendar](/gylhev_calendar)*\
+Tanourog: *see [Gylhev Calendar](/wiki/gylhev_calendar)*\
 
 #### U
+[Ų̇ôgiat](/wiki/uogiat)\
 
 #### V
-[Vhōlītor Ghơl](/vholitor_ghol)\
+[Vhōlītor Ghơl](/wiki/vholitor_ghol)\
 
 #### W
 
@@ -80,6 +95,7 @@ Tanourog: *see [Gylhev Calendar](/gylhev_calendar)*\
 #### Y
 
 #### Z
+[Ƶunâhiįe](/wiki/zunahiie)\
 
 ### Help pages
 
