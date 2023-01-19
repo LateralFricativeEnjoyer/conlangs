@@ -128,6 +128,8 @@ Tanourog: *see [Gylhev Calendar](/wiki/gylhev_calendar)*\
 #### Y
 Yfogbo Ngebu: *see [Gzokangbyř](/wiki/gzokangbyr)*\
 
+
+
 #### Z
 [Ƶunâhiįe](/wiki/zunahiie)\
 
