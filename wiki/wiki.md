@@ -7,94 +7,94 @@ published: true
 ## Page Index
 
 #### Numeric & Symbols
-1(4(ṇ2ṇ1ṇ12en1n2)5(9(11(ṃ12ṃ2m2sfm1i)))ghz(uṃ12ëksim1f): *see [uṃ12ëksim1f](/wiki/um12eksim1f)*\
+1(4(ṇ2ṇ1ṇ12en1n2)5(9(11(ṃ12ṃ2m2sfm1i)))ghz(uṃ12ëksim1f): *see [uṃ12ëksim1f](/wiki/um12eksim1f)*
 
 #### Other Letters
-[!ƛ’ŋẍáḍ](/wiki/tlnxad)\
+[!ƛ’ŋẍáḍ](/wiki/tlnxad)
 
 #### A
-[Aarnor](/wiki/aarnor)\
+[Aarnor](/wiki/aarnor)
 
-Astral Measure: *see [Khādmot](/wiki/khadmot)*\
+Astral Measure: *see [Khādmot](/wiki/khadmot)*
 
 #### B
-[Banēikh Archive Supply](/wiki/baneikh)\
+[Banēikh Archive Supply](/wiki/baneikh)
 
 #### C
 
 #### D
-[Dlhen](/wiki/dlhen)\
+[Dlhen](/wiki/dlhen)
 
-[Dhehenevârı](/wiki/dhehenevari)\
+[Dhehenevârı](/wiki/dhehenevari)
 
-[Dhyczûl](/wiki/dhyczul)\
+[Dhyczûl](/wiki/dhyczul)
 
-[Dɯas Žadɯfhe](/wiki/duas_zadufhe)\
+[Dɯas Žadɯfhe](/wiki/duas_zadufhe)
 
 #### E
 
 #### F
-[Frísú](/wiki/frisu)\
+[Frísú](/wiki/frisu)
 
 #### G
-[Galāt](/wiki/galat)\
+[Galāt](/wiki/galat)
 
-[Gitiidhnâe](/wiki/gitiidhnae)\
+[Gitiidhnâe](/wiki/gitiidhnae)
 
-[Gylhev](/wiki/gylhev)\
+[Gylhev](/wiki/gylhev)
 
-[Gylhev Calendar](/wiki/gylhev_calendar)\
+[Gylhev Calendar](/wiki/gylhev_calendar)
 
-[Gzokangbyř](/wiki/gzokangbyr)\
+[Gzokangbyř](/wiki/gzokangbyr)
 
 #### H
-[Ħaliįu̇tha Phenomenon](/wiki/haliiutha)\
+[Ħaliįu̇tha Phenomenon](/wiki/haliiutha)
 
 #### I
-[Iienaartsuu](/wiki/iienaartsuu)\
+[Iienaartsuu](/wiki/iienaartsuu)
 
 #### J
 
 #### K
-[Khādmot](/wiki/khadmot)\
+[Khādmot](/wiki/khadmot)
 
-[Khaenu Range](/wiki/khaenu)\
+[Khaenu Range](/wiki/khaenu)
 
-[Khe Į̇onalu](/wiki/khe_ionalu)\
+[Khe Į̇onalu](/wiki/khe_ionalu)
 
-[Khinıxa Aħu̇įre Outpost](/wiki/khinixa_ahuire_outpost)\
+[Khinıxa Aħu̇įre Outpost](/wiki/khinixa_ahuire_outpost)
 
-Khinıxa Aħu̇įre Dialect: *see [Dialects of U̇vįolıhu](/wiki/dialects_uviolihu)*\
+Khinıxa Aħu̇įre Dialect: *see [Dialects of U̇vįolıhu](/wiki/dialects_uviolihu)*
 
-[Khơlīvh](/wiki/kholivh)\
+[Khơlīvh](/wiki/kholivh)
 
-[Khơlīvh Calendar](/wiki/kholivh_calendar)\
+[Khơlīvh Calendar](/wiki/kholivh_calendar)
 
-Khơnd Šaramil: *see [Khơlīvh Calendar](/wiki/kholivh_calendar)*\
+Khơnd Šaramil: *see [Khơlīvh Calendar](/wiki/kholivh_calendar)*
 
 #### L
-[Lıbhemora](/wiki/libhemora)\
+[Lıbhemora](/wiki/libhemora)
 
-[Lḥär Nuc̨uȫmk](/wiki/lhar_nucuomk)\
+[Lḥär Nuc̨uȫmk](/wiki/lhar_nucuomk)
 
 #### M
-[Mı](/wiki/mi)\
+[Mı](/wiki/mi)
 
 #### N
-[Nàrive Cxǫłnÿr](/wiki/narive_cxolnyr)\
+[Nàrive Cxǫłnÿr](/wiki/narive_cxolnyr)
 
-[Netilıbharôlu̇ӿâɸoigh](/wiki/netilibharoluxafoigh)\
+[Netilıbharôlu̇ӿâɸoigh](/wiki/netilibharoluxafoigh)
 
-[Niizkhâ](/wiki/niizkha)\
+[Niizkhâ](/wiki/niizkha)
 
-[Niizukôl](/wiki/niizukol)\
+[Niizukôl](/wiki/niizukol)
 
-Niiįiźukôl: *see [Niizukôl](/wiki/niizukol)*\
+Niiįiźukôl: *see [Niizukôl](/wiki/niizukol)*
 
 #### O
-[Ogwaž](/wiki/ogwaz)\
+[Ogwaž](/wiki/ogwaz)
 
-Orñg̈ʡhyrl’hyl’hyw: *see [Ȣ̈rlibb’gẉ](/wiki/urlibbgw)*\
+Orñg̈ʡhyrl’hyl’hyw: *see [Ȣ̈rlibb’gẉ](/wiki/urlibbgw)*
 
 #### P
 
@@ -105,33 +105,31 @@ Orñg̈ʡhyrl’hyl’hyw: *see [Ȣ̈rlibb’gẉ](/wiki/urlibbgw)*\
 #### S
 
 #### T
-[Tã](/wiki/tã)\
+[Tã](/wiki/tã)
 
-[Ta](/wiki/ta)\
+[Ta](/wiki/ta)
 
-Tanourog: *see [Gylhev Calendar](/wiki/gylhev_calendar)*\
+Tanourog: *see [Gylhev Calendar](/wiki/gylhev_calendar)*
 
-[Thınâlu̇ik](/wiki/thinaluik)\
+[Thınâlu̇ik](/wiki/thinaluik)
 
 #### U
-[Uargu](/wiki/uargu)\
+[Uargu](/wiki/uargu)
 
-[Ų̇ôgiat](/wiki/uogiat)\
+[Ų̇ôgiat](/wiki/uogiat)
 
 #### V
-[Vhōlītor Ghơl](/wiki/vholitor_ghol)\
+[Vhōlītor Ghơl](/wiki/vholitor_ghol)
 
 #### W
 
 #### X
 
 #### Y
-Yfogbo Ngebu: *see [Gzokangbyř](/wiki/gzokangbyr)*\
-
-
+Yfogbo Ngebu: *see [Gzokangbyř](/wiki/gzokangbyr)*
 
 #### Z
-[Ƶunâhiįe](/wiki/zunahiie)\
+[Ƶunâhiįe](/wiki/zunahiie)
 
 ### Help pages
 
