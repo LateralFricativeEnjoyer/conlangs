@@ -10,7 +10,7 @@ published: true
 1(4(ṇ2ṇ1ṇ12en1n2)5(9(11(ṃ12ṃ2m2sfm1i)))ghz(uṃ12ëksim1f): *see [uṃ12ëksim1f](/wiki/um12eksim1f)*
 
 #### Other Letters
-[!ƛ’ŋẍáḍ](/wiki/tlnxad)
+[ǃƛ’ŋẍáḍ](/wiki/tlnxad)
 
 #### A
 [Aarnor](/wiki/aarnor)
