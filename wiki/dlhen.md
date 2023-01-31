@@ -6,7 +6,7 @@ title: Dlhen
 
 <div class="statblock" style="float: right; margin: 0px 25px 25px;">
 
-<table style="align: center; text-align: center">
+<table style="text-align: center">
   <tr>
     <td colspan="2"> Statblock: Dlhen </td>
   </tr>
