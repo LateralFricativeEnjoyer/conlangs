@@ -3,4 +3,4 @@ pages = [
 ];
 
 pagenumber = Math.floor(Math.random() * pages.length);
-window.location.replace("http://sidlangs.com/wiki/" + pages[pagenumber]);
+window.location.replace("https://sidlangs.com/wiki/" + pages[pagenumber]);
