@@ -7,7 +7,7 @@ title: Dlhen
   <link rel="stylesheet" href="statblock.css">
 </head>
 
-<div id="statblock">
+<div class="statblock">
   
 | Syntax      | Description |
 | ----------- | ----------- |
