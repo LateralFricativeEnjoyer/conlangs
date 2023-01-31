@@ -3,7 +3,7 @@ layout: page
 title: Help&#58; IPA
 ---
 
-The IPA ([International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)) is the system of phonetic and phonemic representation used throughout this website. The IPA is fairly standardized, however, a chart is provided below to clear up confusion and easily reference how I write IPA. 
+The **IPA** ([International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)) is the system of phonetic and phonemic representation used throughout this website. The IPA is fairly standardized, however, a chart is provided below to clear up confusion and easily reference how I write IPA. 
 
 IPA here is written [between square brackets] when it describes an *exact or close phonetic representation* of a sound or sounds, such as describing how to pronounce a word or showig the intricacies of phonetic systems in a language.
 
