@@ -18,7 +18,7 @@ title: Dlhen
   </tr>
   <tr>
     <td> Culture: </td>
-    <td> Gylhev </td>
+  <td> <a href="/gylhev">Gylhev</a> </td>
   </tr>
   <tr>
     <td> Type: </td>
