@@ -34,3 +34,9 @@ title: Dlhen
 </div>
 
 A **Dlhen** is a traditional [Gylhev](/wiki/gylhev) weapon, taking the form of a long staff with a blade prodtruding from the shaft.
+
+<table style="text-align: center">
+  <tr>
+    <td> PAGE V0lLOmRsaGVucw (WIK:dlhens) </td>
+  </tr>
+<table style="text-align: center">  
