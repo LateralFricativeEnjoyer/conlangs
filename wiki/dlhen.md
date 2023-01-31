@@ -11,15 +11,18 @@ title: Dlhen
 
 <table>
   <tr>
-    <th colspan="2">Company</th>
+    <th colspan="2"> Dlhen </th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <th colspan="2"> Image Here </th>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td> Culture: </td>
+    <td> Gylhev </td>
+  </tr>
+  <tr>
+    <td> Type: </td>
+    <td> Tools and Weapons </td>
   </tr>
 </table>
   
