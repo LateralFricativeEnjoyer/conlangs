@@ -26,7 +26,7 @@ Again, these prefixes are relative. The English language might have periods look
  * mENG: [Modern English](https://www.youtube.com/watch?v=LuN6gs0AJls) (16th-21st centuries)
 
 | ID    | Language Name      | Status | Modern | Middle | Classical | Archaic | Old | Proto |
-|-------|--------------------|--------|--------|--------|-----------|---------|-----|-------|
+|-------| :----------------: |--------|--------|--------|-----------|---------|-----|-------|
 | `AAR` | Aarnor Iirisis     |        |        |        |           |         |     |       |
 | `AED` | Aeð̣rhu             |        |        |        |           |         |     |       |
 | `ALQ` | ǂàliq              |        |        |        |           |         |     |       |
