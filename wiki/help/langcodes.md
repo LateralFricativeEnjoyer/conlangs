@@ -45,6 +45,7 @@ Again, these prefixes are relative. The English language might have periods look
 | `GYL` | Gylhevř            |        |        |        |           |         |     |       |
 | `HAL` | Hali               |        |        |        |           |         |     |       |
 | `HHX` | Ɦhŏxekh’on ʕlajrhh |        |        |        |           |         |     |       |
+| `HTY` | Ƕiꝧyãp             |        |        |        |           |         |     |       |
 | `IAR` | Îär Tôr            |        |        |        |           |         |     |       |
 | `IKT` | Iktør              |        |        |        |           |         |     |       |
 | `JER` | Jʻẹr               |        |        |        |           |         |     |       |
@@ -65,11 +66,13 @@ Again, these prefixes are relative. The English language might have periods look
 | `RLT` | Ṛeliteṭ            |        |        |        |           |         |     |       |
 | `SAQ` | Saaiqnewak         |        |        |        |           |         |     |       |
 | `SET` | Ʃeteol             |        |        |        |           |         |     |       |
-| `TLI` | Taali              |        |        |        |           |         |     |       |
 | `THE` | Thelodar           |        |        |        |           |         |     |       |
+| `TLI` | Taali              |        |        |        |           |         |     |       |
 | `TLX` | !ƛŋẍáḍ             |        |        |        |           |         |     |       |
+| `UAT` | Ɥatl               |        |        |        |           |         |     |       |
 | `UME` | uṃ12ëksim1f        |        |        |        |           |         |     |       |
 | `UOR` | Ur                 |        |        |        |           |         |     |       |
+| `URL` | Ȣ̈rlibb’gẉ          |        |        |        |           |         |     |       |
 | `UVI` | U̇vįolıhu           |        |        |        |           |         |     |       |
 | `VOQ` | Voq                |        |        |        |           |         |     |       |
 | `WGQ` | Wolgq              |        |        |        |           |         |     |       |
@@ -78,9 +81,6 @@ Again, these prefixes are relative. The English language might have periods look
 | `YML` | Yȫml Ḫėr           |        |        |        |           |         |     |       |
 | `YVN` | Yßnúú              |        |        |        |           |         |     |       |
 | `ZHI` | Zhidorik           |        |        |        |           |         |     |       |
-| `URL` | Ȣ̈rlibb’gẉ          |        |        |        |           |         |     |       |
-| `HTY` | Ƕiꝧyãp             |        |        |        |           |         |     |       |
-| `UAT` | Ɥatl               |        |        |        |           |         |     |       |
 
 <table style="text-align: center">
   <tr>
