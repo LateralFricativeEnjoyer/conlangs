@@ -7,8 +7,6 @@ title: Dlhen
   <link rel="stylesheet" href="statblock.css">
 </head>
 
-hello1
-
 <div class="statblock">
 
 <table>
@@ -38,4 +36,4 @@ hello1
   
 </div>
 
-hello
+A **Dlhen** is a traditional Gylhev weapon, taking the form of a long staff with a blade prodtruding from the shaft
