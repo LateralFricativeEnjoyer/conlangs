@@ -15,7 +15,7 @@ title: Dlhen
   </tr>
   <tr>
     <td> Culture </td>
-  <td> <a href="/wiki/gylhev.md">Gylhev</a> </td>
+  <td> <a href="/wiki/gylhev">Gylhev</a> </td>
   </tr>
   <tr>
     <td> Type </td>
@@ -27,10 +27,10 @@ title: Dlhen
   </tr>
    <tr>
     <td> Materials </td>
-    <td> <a href="/wiki/metallurgy.md">Iron</a> or <a href="/wiki/metallurgy.md">Steel</a> (blade), <a href="/wiki/rygbam.md">Řygbam wood</a> (handle)</td>
+    <td> <a href="/wiki/metallurgy">Iron</a> or <a href="/wiki/metallurgy">Steel</a> (blade), <a href="/wiki/rygbam">Řygbam wood</a> (handle)</td>
   </tr>
 </table>
   
 </div>
 
-A **Dlhen** is a traditional [Gylhev](/wiki/gylhev.md) weapon, taking the form of a long staff with a blade prodtruding from the shaft.
+A **Dlhen** is a traditional [Gylhev](/wiki/gylhev) weapon, taking the form of a long staff with a blade prodtruding from the shaft.
