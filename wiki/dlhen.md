@@ -3,9 +3,10 @@ layout: page
 title: Dlhen
 ---
 
-<div class="statblock">
 
-<table style="float: right;">
+<div class="statblock" style="float: right;">
+
+<table>
   <tr>
     <td colspan="2"> Statblock: Dlhen </td>
   </tr>
