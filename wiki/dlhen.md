@@ -11,7 +11,7 @@ title: Dlhen
 
 <table>
   <tr>
-    <th colspan="2"> Dlhen </th>
+    <th colspan="2"> Statblock: Dlhen </th>
   </tr>
   <tr>
     <th colspan="2"> <img src="https://sidlangs.com/assets/dlhen2.jpg" alt="Dlhen" width="200"> A Gylhev Dlhen </th>
