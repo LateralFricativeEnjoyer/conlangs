@@ -11,10 +11,10 @@ title: Dlhen
 
 <table>
   <tr>
-    <th colspan="2"> Statblock: Dlhen </th>
+    <td colspan="2"> Statblock: Dlhen </td>
   </tr>
   <tr>
-    <th colspan="2"> <img src="https://sidlangs.com/assets/dlhen2.jpg" alt="Dlhen" width="200"> A Gylhev Dlhen </th>
+    <td colspan="2"> <img src="https://sidlangs.com/assets/dlhen2.jpg" alt="Dlhen" width="200"> A Gylhev Dlhen </td>
   </tr>
   <tr>
     <td> Culture </td>
