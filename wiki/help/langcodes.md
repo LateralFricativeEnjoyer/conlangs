@@ -28,11 +28,13 @@ Again, these prefixes are relative. The English language might have periods look
 | ID    | Language Name      | Status | Modern | Middle | Classical | Archaic | Old | Proto |
 |-------|--------------------|--------|--------|--------|-----------|---------|-----|-------|
 | `AAR` | Aarnor Iirisis     |        |        |        |           |         |     |       |
+| `AED` | Aeð̣rhu             |        |        |        |           |         |     |       |
 | `ALQ` | ǂàliq              |        |        |        |           |         |     |       |
 | `AZE` | Azent Čel          |        |        |        |           |         |     |       |
 | `BEN` | Bęn̥p̚olxúú          |        |        |        |           |         |     |       |
 | `BIM` | Bim                |        |        |        |           |         |     |       |
 | `CAD` | Ćadj               |        |        |        |           |         |     |       |
+| `CIY` | Ciyig              |        |        |        |           |         |     |       |
 | `CYT` | cʎt’eel’tl         |        |        |        |           |         |     |       |
 | `DHI` | Dhir Tokktoi       |        |        |        |           |         |     |       |
 | `DYR` | Dhyrüṃƞ̤            |        |        |        |           |         |     |       |
@@ -50,10 +52,12 @@ Again, these prefixes are relative. The English language might have periods look
 | `IKT` | Iktør              |        |        |        |           |         |     |       |
 | `JER` | Jʻẹr               |        |        |        |           |         |     |       |
 | `JIL` | Jilkha             |        |        |        |           |         |     |       |
-| `KHO` | Khơlīvh Ɯr         |        |        |        |           |         |     |       |
 | `KAS` | Kas                |        |        |        |           |         |     |       |
-| `LIB` | Llibcinist’iiallib |        |        |        |           |         |     |       |
+| `KHO` | Khơlīvh Ɯr         |        |        |        |           |         |     |       |
+| `KPU` | Kpəré              |        |        |        |           |         |     |       |
+| `LAT` | ʔlat'ûl            |        |        |        |           |         |     |       |
 | `LES` | Leſitàli           |        |        |        |           |         |     |       |
+| `LIB` | Llibcinist’iiallib |        |        |        |           |         |     |       |
 | `MAE` | Maërnü             |        |        |        |           |         |     |       |
 | `MBA` | mBasaaric          |        |        |        |           |         |     |       |
 | `NGO` | Ngørja Senrøbaki   |        |        |        |           |         |     |       |
@@ -74,11 +78,14 @@ Again, these prefixes are relative. The English language might have periods look
 | `UOR` | Ur                 |        |        |        |           |         |     |       |
 | `URL` | Ȣ̈rlibb’gẉ          |        |        |        |           |         |     |       |
 | `UVI` | U̇vįolıhu           |        |        |        |           |         |     |       |
+| `UVX` | Uvyx               |        |        |        |           |         |     |       |
 | `VOQ` | Voq                |        |        |        |           |         |     |       |
 | `WGQ` | Wolgq              |        |        |        |           |         |     |       |
 | `WUL` | Wùlɤlu             |        |        |        |           |         |     |       |
 | `XOV` | Ẋov̆ii              |        |        |        |           |         |     |       |
+| `XLV` | Xolvik             |        |        |        |           |         |     |       |
 | `YML` | Yȫml Ḫėr           |        |        |        |           |         |     |       |
+| `YYH` | Yyhreven Ynqa      |        |        |        |           |         |     |       |
 | `YVN` | Yßnúú              |        |        |        |           |         |     |       |
 | `ZHI` | Zhidorik           |        |        |        |           |         |     |       |
 
