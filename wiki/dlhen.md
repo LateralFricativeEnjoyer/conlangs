@@ -3,10 +3,6 @@ layout: page
 title: Dlhen
 ---
 
-<head>
-  <link rel="stylesheet" href="statblock.css">
-</head>
-
 <div class="statblock">
 
 <table>
