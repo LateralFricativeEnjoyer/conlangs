@@ -14,7 +14,7 @@ title: Dlhen
     <th colspan="2"> Dlhen </th>
   </tr>
   <tr>
-    <th colspan="2"> <img src="sidlangs.com/assets/dlhen.jpg" alt="Dlhen" width="500" height="600"> <br> A Gylhev Dlhen </th>
+    <th colspan="2"> <img src="https://sidlangs.com/assets/dlhen.jpg" alt="Dlhen" width="500" height="600"> <br> A Gylhev Dlhen </th>
   </tr>
   <tr>
     <td> Culture: </td>
