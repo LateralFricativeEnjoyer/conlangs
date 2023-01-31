@@ -25,6 +25,12 @@ Again, these prefixes are relative. The English language might have periods look
  * dENG: Later Middle English (14th-16th centuries)
  * mENG: [Modern English](https://www.youtube.com/watch?v=LuN6gs0AJls) (16th-21st centuries)
 
+` hi `
+
+```
+hi
+```
+
 | ID  | Language Name      | Status | Modern | Middle | Classical | Archaic | Old | Proto |
 |-----|--------------------|--------|--------|--------|-----------|---------|-----|-------|
 | AAR | Aarnor Iirisis     |        |        |        |           |         |     |       |
