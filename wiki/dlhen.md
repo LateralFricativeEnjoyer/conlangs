@@ -5,7 +5,7 @@ title: Dlhen
 
 <div class="statblock">
 
-<table>
+<table style="float: right;">
   <tr>
     <td colspan="2"> Statblock: Dlhen </td>
   </tr>
