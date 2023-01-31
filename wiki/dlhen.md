@@ -24,6 +24,10 @@ title: Dlhen
     <td> Type: </td>
     <td> Tools and Weapons </td>
   </tr>
+  <tr>
+    <td> Size: </td>
+    <td> About 1.3 V̄ (1.71 m) tall  </td>
+  </tr>
 </table>
   
 </div>
