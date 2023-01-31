@@ -1,4 +1,4 @@
-div.statblock th {
+.statblock * {
   text-align: center;
   float: right;
   margin: 0px 25px 25px;
