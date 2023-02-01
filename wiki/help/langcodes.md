@@ -54,6 +54,7 @@ Again, these prefixes are relative. The English language might have periods look
 | `DWA` | Dwańni             |        |        |        |           |         |     |       |
 | `EAI` | Eaïyyᵫ             |        |        |        |           |         |     |       |
 | `EGN` | Égnèkhʷà           |        |        |        |           |         |     |       |
+| `ENG` | [ENGLISH]          |        |        |        |           |         |     |       |
 | `FRS` | Frísú              |        |        |        |           |         |     |       |
 | `GEN` | Bhom Gëndœ         |        |        |        |           |         |     |       |
 | `GYL` | Gylhevř            |        |        |        |           |         |     |       |
