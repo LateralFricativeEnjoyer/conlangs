@@ -35,7 +35,10 @@ Again, these prefixes are relative. The English language might have periods look
  * aENG: Nonexistent, because we don't need it!
  * cENG: Anglo-Saxon, after Norman invasion (11th-13th centuries)
  * dENG: Later Middle English (14th-16th centuries)
- * mENG: [Modern English](https://www.youtube.com/watch?v=LuN6gs0AJls) (16th-21st centuries)
+ * mENG: Modern English (16th-21st centuries)
+ * 1979: Modern English formed
+ * 1982: Modern English releases "I Melt with You"
+ * 1987: Modern English disbands
 
 | ID    | Language Name      | Status | Modern | Middle | Classical | Archaic | Old | Proto |
 |:-----:|--------------------|--------|:------:|:------:|:---------:|:-------:|:---:|:-----:|
