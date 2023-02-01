@@ -2,11 +2,11 @@
 layout: page
 title: Help&#58; Langcodes
 ---
-<div id="searchtool"  style="margin: 20px; border: 1px solid gray; padding: 20px;">
+<div id="searchtool"  style="margin: 20px; border: 1px solid gray; padding: 20px; text-align: center;">
   <h2> Langcode Search Tool </h2>
   Search langcodes fast! <br> <br>
 
-  Input a langcode or language name: <input id="search">
+  Input a langcode or language name: <br> <input id="search">
   <button type="button" onclick="search()">Search</button>
 
   <br> <br> <div id="output"></div>
