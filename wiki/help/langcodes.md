@@ -2,17 +2,18 @@
 layout: page
 title: Help&#58; Langcodes
 ---
-
+<div id="searchtool">
   <h2> Langcode Search Tool </h2>
-  Search langcodes fast! 
-  <br> <br>
+  Search langcodes fast! <br> <br>
 
   Input a langcode or language name: <input id="search">
   <button type="button" onclick="search()">Search</button>
 
-  <div id="output"></div>
+  <br> <br> <div id="output"></div>
   
   <script src="langcodes.js"></script>
+<div id="searchtool">  
+  
   
 **Langcodes** are a system invented by me to indicate various languages in my constructed world. Here's an example:
 
