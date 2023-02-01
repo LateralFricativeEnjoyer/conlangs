@@ -9,7 +9,7 @@ title: Help&#58; Langcodes
   Input a langcode or language name: <br> <input id="search">
   <button type="button" onclick="search()">Search</button>
 
-  <br> <br> <div id="output"></div>
+  <br> <br> <h4> <div id="output"></div> </h4>
   
   <script src="langcodes.js"></script>
 </div>  
