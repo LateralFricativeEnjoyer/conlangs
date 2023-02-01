@@ -2,7 +2,7 @@
 layout: page
 title: Help&#58; Langcodes
 ---
-<div id="searchtool">
+<div id="searchtool"  style="margin: 20px; border: 1px solid gray">
   <h2> Langcode Search Tool </h2>
   Search langcodes fast! <br> <br>
 
@@ -12,7 +12,7 @@ title: Help&#58; Langcodes
   <br> <br> <div id="output"></div>
   
   <script src="langcodes.js"></script>
-<div id="searchtool">  
+</div>  
   
   
 **Langcodes** are a system invented by me to indicate various languages in my constructed world. Here's an example:
