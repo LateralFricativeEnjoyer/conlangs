@@ -2,7 +2,7 @@
 layout: page
 title: Help&#58; Langcodes
 ---
-<div id="searchtool"  style="margin: 20px; border: 1px solid gray">
+<div id="searchtool"  style="margin: 20px; border: 1px solid gray; padding: 20px;">
   <h2> Langcode Search Tool </h2>
   Search langcodes fast! <br> <br>
 
