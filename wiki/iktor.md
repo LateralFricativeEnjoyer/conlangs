@@ -36,7 +36,13 @@ Iktør ([ik.t̪oʊ̯ɾ̪] [﹖](/wiki/help/ipa) mIKT(x) "Iktør Language" [﹖](
 
 ## Class and Agreement
 
-Nouns in Iktør have three classes, distinguished by the sound of the end of thw word and memorization. A form of agreement is employed to clarify this, where the subject receives a prefix based on its and (more importantly) the direct object's class. See the table below:
+Nouns in Iktør have three classes, distinguished by the sound of the end of thw word and memorization. 
+
+ * Class Ⅰ: Words end in -zh or -s (and sometimes -v)
+ * Class Ⅱ: Words end in -t, -d, or -n, but are often assimilated to a generic dental sound or [ɾ̪].
+ * Class Ⅲ: Words end in -lo, -o, -ø, or other rounded vowel sounds
+
+A form of agreement is employed to clarify this, where the subject receives a prefix based on its and (more importantly) the direct object's class. See the table below:
 
 |                | Subject Class Ⅰ | Subject Class Ⅱ | Subject Class Ⅲ |
 |:--------------:|:---------------:|:---------------:|:---------------:|
