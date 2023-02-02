@@ -37,9 +37,7 @@ A **Dlhen** ([ḏɬɛ.ᵞn] [﹖](/wiki/help/ipa) mGYL(x) "blade" [﹖](/wiki/he
 
 ## Manufacturing
 
-A typical Dlhen, such as one made by Řengbe Gbokmalha, is made from a solid branch of [Řygbam wood](/wiki/rygbam), with the bottom of the shaft being the part furthest from the tree. The branch is collected with a Mytořogb,  
-
-<a href="/wiki/mytorogb" data-toggle="tooltip" data-placement="top" title="A traditional Gylhev tool shaped like a wide adze">Mytořogb</a>
+A typical Dlhen, such as one made by Řengbe Gbokmalha, is made from a solid branch of [Řygbam wood](/wiki/rygbam), with the bottom of the shaft being the part furthest from the tree. The branch is collected with a <a href="/wiki/mytorogb" data-toggle="tooltip" data-placement="top" title="A traditional Gylhev tool shaped like a wide adze">Mytořogb</a>, but the cut actually extends into the tree, forming the material for the head of the Dlhen.
 
 ## Use
 
