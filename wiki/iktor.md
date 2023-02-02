@@ -34,7 +34,9 @@ title: Iktør
 
 Iktør ([ik.t̪oʊ̯ɾ̪] [﹖](/wiki/help/ipa) mIKT(x) "Iktør Language" [﹖](/wiki/help/langcodes)) is a language spoken by the <a href="/wiki/tova" data-toggle="tooltip" data-placement="top" title="A people of Ikàø Chetivar">Tøvà</a>, of the Aeð̣rhu family and Etro'av-Tøvic subfamily. Iktør has a relatively small phonology and a head-initial structure.
 
-## CLass and Agreement
+## Class and Agreement
+
+Nouns in Iktør have three classes, distinguished by the sound of the end of thw word and memorization. A form of agreement is employed to clarify this, where the subject receives a prefix based on its and (more importantly) the direct object's class. See the table below:
 
 |                | Subject Class Ⅰ | Subject Class Ⅱ | Subject Class Ⅲ |
 |:--------------:|:---------------:|:---------------:|:---------------:|
