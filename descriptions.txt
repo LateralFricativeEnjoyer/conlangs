@@ -1,0 +1,7 @@
+/wiki/dlhen: A Gylhev weapon like a staff with a blade running along it
+/wiki/gylhev: A people of Third Bridge
+/wiki/rygbam: A tree endemic to Third Bridge that can live for thousands of years
+/wiki/metallurgy: Metallurgical processes of the planes
+/wiki/mytorogb: A traditional Gylhev tool shaped like a wide adze
+/wiki/uviolihu: The beautiful language spoken by the Uvįo
+/wiki/iienaartsuu: The Aarnor's writing system, used bottom to top
