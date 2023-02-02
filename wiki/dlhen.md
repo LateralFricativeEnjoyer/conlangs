@@ -47,12 +47,6 @@ A typical Dlhen, such as one made by Řengbe Gbokmalha, is made from a solid bra
 
 ## Cultural Meaning
 
-<script>
-$(document).ready(function(){
-  $('[data-toggle="tooltip"]').tooltip();   
-});
-</script>
-
 <table style="text-align: center">
   <tr>
     <td> PAGE V0lLOmRsaGVucw (WIK:dlhens) </td>
