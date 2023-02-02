@@ -21,7 +21,7 @@ title: Iktør
     <td> Spoken Language </td>
   </tr>
   <tr>
-    <td> Langcode <a href="/wiki/help/langcodes">[﹖]</a> </td>
+    <td> Langcode <a href="/wiki/help/langcodes">﹖</a> </td>
     <td> IKT (Modern-Common: mIKT(x)) </td>
   </tr>
    <tr>
