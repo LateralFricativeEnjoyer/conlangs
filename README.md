@@ -1,4 +1,3 @@
-# conlangs
-lol why did you click this
+# [Sidlangs](https://sidlangs.com)
 
-e
+Just my website, storing a large-scale worldbuilding project that I've been doing nonstop for two years and counting.
