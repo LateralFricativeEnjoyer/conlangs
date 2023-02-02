@@ -33,7 +33,15 @@ title: Dlhen
   
 </div>
 
-A **Dlhen** ([ḏɬɛ.ᵞn] [﹖](/wiki/help/ipa) mGYL(x) "blade" [﹖](/wiki/help/langcodes)) is a traditional [Gylhev](/wiki/gylhev) weapon, taking the form of a long staff with a blade prodtruding from the shaft. Dlhens are commonly used as a primary weapon in Gylhev warfare, and are often required for a Gyhev to fight in a battle. However, in the legendary [Battle of Yogboru](/wiki/battle_yogboru), Gylhev fought with numerous other improvised weapons, showing that it is not a religious or ideological bond, simply a strategic one. 
+A **Dlhen** ([ḏɬɛ.ᵞn] [﹖](/wiki/help/ipa) mGYL(x) "blade" [﹖](/wiki/help/langcodes)) is a traditional [Gylhev](/wiki/gylhev) weapon, taking the form of a long staff with a blade prodtruding from the shaft. Dlhens are commonly used as a primary weapon in Gylhev warfare, and are often required for a Gyhev to fight in a battle. 
+
+## Manufacturing
+
+## Use
+
+## History
+
+## Cultural Meaning
 
 <table style="text-align: center">
   <tr>
