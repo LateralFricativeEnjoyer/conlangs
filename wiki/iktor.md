@@ -32,7 +32,15 @@ title: Iktør
   
 </div>
 
-Iktør ([ik.t̪oʊ̯ɾ̪] [﹖](/wiki/help/ipa) mIKT(x) "Iktør Language" [﹖](/wiki/help/langcodes)) is a language spoken by the <a href="/wiki/tova" data-toggle="tooltip" data-placement="top" title="A people of Ikàø Chetivar">Tøvà</a>, of the Aeð̣rhu family and Etro'av-Tøvic subfamily. 
+Iktør ([ik.t̪oʊ̯ɾ̪] [﹖](/wiki/help/ipa) mIKT(x) "Iktør Language" [﹖](/wiki/help/langcodes)) is a language spoken by the <a href="/wiki/tova" data-toggle="tooltip" data-placement="top" title="A people of Ikàø Chetivar">Tøvà</a>, of the Aeð̣rhu family and Etro'av-Tøvic subfamily. Iktør has a relatively small phonology and a head-initial structure.
+
+## CLass and Agreement
+
+|                | Subject Class Ⅰ | Subject Class Ⅱ | Subject Class Ⅲ |
+|:--------------:|:---------------:|:---------------:|:---------------:|
+| Object Class Ⅰ | u-              | o- or ø-        | ø-              |
+| Object Class Ⅱ | zhe-            | e-              | i-              |
+| Object Class Ⅲ | ke-             | gi-             | ti-             |
 
 <table style="text-align: center">
   <tr>
