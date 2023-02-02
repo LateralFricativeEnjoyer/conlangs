@@ -27,7 +27,7 @@ title: Dlhen
   </tr>
    <tr>
     <td> Materials </td>
-    <td> <a href="/wiki/metallurgy" data-toggle="tooltip" data-placement="top" title="Metallurgical processes of the planes">Iron</a> or <a href="/wiki/metallurgy" data-toggle="tooltip" data-placement="top" title="Metallurgical processes of the planes">Steel</a> (blade), <a href="/wiki/rygbam" data-toggle="tooltip" data-placement="top" title="A tree endemic to Third Bridge that can live for thousands of years by hibernating">Řygbam wood</a> (handle)</td>
+    <td> <a href="/wiki/metallurgy" data-toggle="tooltip" data-placement="top" title="Metallurgical processes of the planes">Iron</a> or <a href="/wiki/metallurgy" data-toggle="tooltip" data-placement="top" title="Metallurgical processes of the planes">Steel</a> (blade), <a href="/wiki/rygbam" data-toggle="tooltip" data-placement="top" title="A tree endemic to Third Bridge that can live for thousands of years">Řygbam wood</a> (handle)</td>
   </tr>
 </table>
   
@@ -37,7 +37,7 @@ A **Dlhen** ([ḏɬɛ.ᵞn] [﹖](/wiki/help/ipa) mGYL(x) "blade" [﹖](/wiki/he
 
 ## Manufacturing
 
-A typical Dlhen, such as one made by Řengbe Gbokmalha, is made from a solid branch of <a href="/wiki/rygbam" data-toggle="tooltip" data-placement="top" title="A tree endemic to Third Bridge that can live for thousands of years by hibernating">Řygbam wood</a>, with the bottom of the shaft being the part furthest from the tree. The branch is collected with a <a href="/wiki/mytorogb" data-toggle="tooltip" data-placement="top" title="A traditional Gylhev tool shaped like a wide adze">Mytořogb</a>, but the cut actually extends into the tree, forming the material for the head of the Dlhen.
+A typical Dlhen, such as one made by Řengbe Gbokmalha, is made from a solid branch of <a href="/wiki/rygbam" data-toggle="tooltip" data-placement="top" title="A tree endemic to Third Bridge that can live for thousands of years">Řygbam wood</a>, with the bottom of the shaft being the part furthest from the tree. The branch is collected with a <a href="/wiki/mytorogb" data-toggle="tooltip" data-placement="top" title="A traditional Gylhev tool shaped like a wide adze">Mytořogb</a>, but the cut actually extends into the tree, forming the material for the head of the Dlhen.
 
 ## Use
 
