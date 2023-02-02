@@ -10,7 +10,7 @@ title: Iktør
     <td colspan="2"> Statblock: Iktør </td>
   </tr>
   <tr>
-    <td colspan="2"> <img src="https://sidlangs.com/assets/iktor_sample.png" width="200" style="margin: auto;"> ""Iktør is the language of the Tøvà" in Iktør </td>
+    <td colspan="2"> <img src="https://sidlangs.com/assets/iktor_sample.png" width="200" style="margin: auto;"> <br> "Iktør is the language of the Tøvà" in Iktør </td>
   </tr>
   <tr>
     <td> Culture </td>
