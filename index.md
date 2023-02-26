@@ -4,6 +4,11 @@ title: Sid's Conlangs
 published: true
 ---
 
+<head>
+    <meta http-equiv="refresh" content="7; url='https://wiki.sidlangs.com'" />
+</head>
+
+
 ## Welcome!
 
 
