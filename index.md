@@ -5,7 +5,7 @@ published: true
 ---
 
 <head>
-    <meta http-equiv="refresh" content="7; url='https://wiki.sidlangs.com'" />
+    <meta http-equiv="refresh" content="0; url='http://wiki.sidlangs.com'" />
 </head>
 
 
